@@ -1,0 +1,10 @@
+#include <signal.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <stdbool.h>
+#include <pwd.h>
+#include <stdio.h>
+#include <string.h>
+#include <dirent.h>
+#include <stdlib.h>
+#include <sys/stat.h>
